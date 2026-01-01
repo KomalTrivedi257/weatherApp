@@ -4,6 +4,12 @@ A responsive weather application that displays real-time weather data for any ci
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live demo here: [Weather App](https://komaltrivedi257.github.io/weatherApp/)
+
+---
+
 ## 🚀 Features
 
 - 🌍 Search weather by city name
@@ -26,7 +32,14 @@ A responsive weather application that displays real-time weather data for any ci
 
 ## 📸 Screenshots
 
-*(Add screenshots here if available)*
+<p float="left">
+  <img src="assets/homepage.png" width="250" />
+  <img src="assets/search.png" width="250" />
+  <img src="assets/forecast.png" width="250" />
+  <img src="assets/mobile.png" width="250" />
+</p>
+
+*Note: Replace `assets/*.png` with your actual screenshot filenames.*
 
 ---
 
